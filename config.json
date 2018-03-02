@@ -1,0 +1,13 @@
+{
+  "name" : "One-on-ones3",
+  "exportId" : "zeCUqH7iSjyG8GimQgB7fg",
+  "icon" : "👥",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ {
+    "exportId" : "c8RX3Q1xQb-ebA12LDl03Q-RdG2Wm5DR0m2_4FZXf-yKA-default",
+    "apiId" : "RdG2Wm5DR0m2_4FZXf-yKA",
+    "recommendedScope" : "https://www.googleapis.com/auth/calendar",
+    "nameInCode" : "default"
+  } ],
+  "requiredSimpleTokenApis" : [ ]
+}
