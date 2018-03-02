@@ -1,0 +1,6 @@
+[ {
+  "text" : "run action18",
+  "requiresMention" : true,
+  "isRegex" : false,
+  "caseSensitive" : false
+} ]
